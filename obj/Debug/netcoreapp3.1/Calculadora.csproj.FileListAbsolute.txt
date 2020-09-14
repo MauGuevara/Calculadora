@@ -1,0 +1,13 @@
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csprojAssemblyReference.cache
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
