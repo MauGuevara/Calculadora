@@ -11,3 +11,14 @@ D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Calculadora\Calculadora\obj\Debug\netcor
 D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
 D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
 D:\UNIVERSIDAD\ARQUITECTURA DE SOFTWARE\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
+C:\Users\Luis\Desktop\TareaArqui\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Users\Luis\Desktop\TareaArqui\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Users\Luis\Desktop\TareaArqui\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Users\Luis\Desktop\TareaArqui\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Users\Luis\Desktop\TareaArqui\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\Luis\Desktop\TareaArqui\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\Luis\Desktop\TareaArqui\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csprojAssemblyReference.cache
+C:\Users\Luis\Desktop\TareaArqui\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\TareaArqui\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Users\Luis\Desktop\TareaArqui\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\Luis\Desktop\TareaArqui\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
